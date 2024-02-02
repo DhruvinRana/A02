@@ -1,9 +1,9 @@
 # A02
 
-Part 1: Tutorial on setting up git/webstorm/github
+# Part 1: Tutorial on setting up git/webstorm/github
 
-Git: Download Git from the official website: <a herf="https://git-scm.com/downloads"></a>
-
+Git: Download Git from the official website:
+ 
 Part 2: Glossary terms associated with Git/Github
 Branch: A parallel version of a repository. 
 Clone: Create a copy of a repository on your local machine. 
